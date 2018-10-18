@@ -1,3 +1,4 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 leetcode刷题
 =========================
 # 运用C++语言，python语言编程序解决leetcode里面的problems。
