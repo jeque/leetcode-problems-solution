@@ -6,6 +6,6 @@ leetcode刷题
 
 
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
-$ax^{2} + by^{2} + c = 0$
+ax^{2} + by^{2} + c = 0
 
 </script>
