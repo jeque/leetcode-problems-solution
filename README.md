@@ -5,4 +5,4 @@ leetcode刷题
 - python语言命名为.py文件 <br>
 
 
-ax^{2} + by^{2} + c = 0
+$ax^{2} + by^{2} + c = 0$
