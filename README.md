@@ -1,4 +1,4 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
 leetcode刷题
 =========================
 # 运用C++语言，python语言编程序解决leetcode里面的problems。
@@ -7,3 +7,5 @@ leetcode刷题
 
 
 $ax^{2} + by^{2} + c = 0$
+
+</script>
