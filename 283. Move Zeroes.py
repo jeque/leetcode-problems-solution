@@ -10,6 +10,6 @@ class Solution:
                 p += 1
                 continue
             nums[i-p] = nums[i]
-        #    nums[p] == 0
-        for i in range(len(nums[:-p]),len(nums)):
-            nums[i] = 0
+        if len(nums) > p and len(nums) > 1:
+            for i in range(len(nums[:-p]),len(nums)):
+                nums[i] = 0
